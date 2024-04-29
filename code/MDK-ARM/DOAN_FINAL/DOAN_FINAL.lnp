@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"doan_final\startup_stm32f103xb.o"
+"doan_final\lcd_16x2.o"
+"doan_final\main.o"
+"doan_final\stm32f1xx_it.o"
+"doan_final\stm32f1xx_hal_msp.o"
+"doan_final\stm32f1xx_hal_gpio_ex.o"
+"doan_final\stm32f1xx_hal_adc.o"
+"doan_final\stm32f1xx_hal_adc_ex.o"
+"doan_final\stm32f1xx_hal.o"
+"doan_final\stm32f1xx_hal_rcc.o"
+"doan_final\stm32f1xx_hal_rcc_ex.o"
+"doan_final\stm32f1xx_hal_gpio.o"
+"doan_final\stm32f1xx_hal_dma.o"
+"doan_final\stm32f1xx_hal_cortex.o"
+"doan_final\stm32f1xx_hal_pwr.o"
+"doan_final\stm32f1xx_hal_flash.o"
+"doan_final\stm32f1xx_hal_flash_ex.o"
+"doan_final\stm32f1xx_hal_exti.o"
+"doan_final\stm32f1xx_hal_tim.o"
+"doan_final\stm32f1xx_hal_tim_ex.o"
+"doan_final\system_stm32f1xx.o"
+--strict --scatter "DOAN_FINAL\DOAN_FINAL.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "DOAN_FINAL.map" -o DOAN_FINAL\DOAN_FINAL.axf

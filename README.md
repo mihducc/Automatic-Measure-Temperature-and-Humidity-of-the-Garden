@@ -21,7 +21,9 @@ The project focuses on creating a temperature and humidity control device displa
 
 ## Results
 ![image](https://github.com/mihducc/Automatic-Measure-Temperature-and-Humidity-of-the-Garden/assets/126342657/2a4c755f-702b-41f0-b542-929b38810504)
+
 ![image](https://github.com/mihducc/Automatic-Measure-Temperature-and-Humidity-of-the-Garden/assets/126342657/84be5653-8db8-44ce-9b44-9d94b4bda9ca)
+
 ![image](https://github.com/mihducc/Automatic-Measure-Temperature-and-Humidity-of-the-Garden/assets/126342657/3b65691e-835a-42ea-9fb4-87c4ebedd2dc)
 
 
